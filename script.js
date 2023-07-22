@@ -125,18 +125,18 @@ themeButton.addEventListener('click', () => {
 
 //!========== SCROLL REVEAL ===========
 
-let sr = ScrollReveal({
-    origin: 'top',
-    distance: '80px',
-    duration: 2500,
-    dealy: 400,
-    // reset: true
-});
+// let sr = ScrollReveal({
+//     origin: 'top',
+//     distance: '80px',
+//     duration: 2500,
+//     dealy: 400,
+//     // reset: true
+// });
 
 
-sr.reveal(`.home .section__img,.popular,.products,.newsletter .img__container`);
-sr.reveal(`.home .section__info,.newsletter .section__info`, { origin: 'bottom' });
-sr.reveal(`.choose .section__img,.latest .section__img,.footer__logo`, { origin: 'left' });
-sr.reveal(`.choose .section__info,.latest .section__info,.footer__content`, { origin: 'right' });
-sr.reveal(`.product__item`, { interval: 100 })
+// sr.reveal(`.home .section__img,.popular,.products,.newsletter .img__container`);
+// sr.reveal(`.home .section__info,.newsletter .section__info`, { origin: 'bottom' });
+// sr.reveal(`.choose .section__img,.latest .section__img,.footer__logo`, { origin: 'left' });
+// sr.reveal(`.choose .section__info,.latest .section__info,.footer__content`, { origin: 'right' });
+// sr.reveal(`.product__item`, { interval: 100 })
 

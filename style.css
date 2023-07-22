@@ -74,7 +74,6 @@ html {
 
 body {
     background-color: var(--body-color);
-    overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -102,6 +101,10 @@ input {
     outline: none;
     background-color: transparent;
     color: unset;
+}
+
+main {
+    overflow: hidden;
 }
 
 img {
@@ -498,7 +501,6 @@ header {
 .choose__item {
     margin-bottom: 1rem;
     padding: .5rem;
-    overflow: hidden;
 }
 
 .question {

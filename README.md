@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Lamp-website/main/Github%20Banner.png)](https://lamp-website77.netlify.app/)
+[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Lamp-website/main/Github%20Banner.png?token=GHSAT0AAAAAACHDE6DMCZKNQLPZ7FEK4EUCZH6YPJA)](https://lamp-website77.netlify.app/)
 
 ### Live: [Click Here](https://lamp-website77.netlify.app/)
 

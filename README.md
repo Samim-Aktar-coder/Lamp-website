@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Samim-Aktar-coder/Lamp-website/main/Github%20Banner.png?token=GHSAT0AAAAAACHDE6DMCZKNQLPZ7FEK4EUCZH6YPJA)](https://lamp-website77.netlify.app/)
+[![MasterHead](https://image-link-website.netlify.app/img/lamp-website.png)](https://lamp-website77.netlify.app/)
 
 ### Live: [Click Here](https://lamp-website77.netlify.app/)
 
@@ -16,10 +16,9 @@ Tech stack I use to build this app:
 
 ## 🙋‍♂️ Author
 
-- [@SamimAktar](https://github.com/Samim-Aktar-coder)
+- [@SamimAktar](https://github.com/samimaktar-coder)
 
 ## Installation
-
 
 ```bash
     No installation Required
@@ -30,3 +29,4 @@ Tech stack I use to build this app:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samimaktr/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hellosamaktr)
 [![project](https://img.shields.io/badge/project_link-96C43A?style=for-the-badge&logo=tp-link&logoColor=white)](https://my-weather-watch.netlify.app)
+
